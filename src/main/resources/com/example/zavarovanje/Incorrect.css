@@ -1,0 +1,9 @@
+.menu-button {
+    -fx-border-color: Red;
+}
+.text-field {
+    -fx-border-color: Red;
+}
+.radio-button {
+    -fx-text-fill: Red;
+}
